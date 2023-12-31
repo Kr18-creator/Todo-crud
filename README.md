@@ -9,7 +9,7 @@ MySQL: Download MySQL
 
 # Setup
 1. Clone the repository:
-2. git clone <repository_url>
+2. git clone https://github.com/Kr18-creator/Todo-crud.git
 3. Navigate to the server directory:
 i.cd server
 ii. Install server dependencies:
